@@ -11,6 +11,7 @@ main {
   margin: 20px;
   align-items: center;
   border-bottom: 1px solid var(--cor--da--linha);
+  padding-bottom: 10px;
 }
 
 header {
@@ -57,7 +58,6 @@ nav ul .navigation a:hover {
   color: var(--white);
   padding: 10px;
   border-radius: 5px;
-  margin-top: 10px;
 }
 .button:hover {
   box-shadow: #70947d 0px 0px 5px 2px;
